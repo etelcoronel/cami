@@ -72,20 +72,21 @@ defined('BASEPATH') or exit('No direct script access allowed');
     </header><!-- header section end -->
     <!-- hero area start -->
     <section class="hero-area" id="home">
-        <div class="player" data-property="{videoURL:'http://youtu.be/kn-1D5z3-Cs',containment:'#home',autoPlay:true, mute:true, startAt:0, showControls:false, loop:true, opacity:1}"></div>
+        <!-- <div class="player" data-property="{videoURL:'http://youtu.be/kn-1D5z3-Cs',containment:'#home',autoPlay:false, mute:true, startAt:0, showControls:false, loop:true, opacity:1}"></div> -->
         <div class="container">
             <div class="row">
                 <div class="col-lg-7">
                     <div class="hero-area-content" style="text-align: center;">
                         <h1>Cami, conectando al mundo</h1>
                         <p> SAN MATEO YUCUTINDOO, OAXACA. </p>
-                        <a class="appao-btn">Navegación Rápida </a>
-                        <a class="appao-btn">Instalación</a>
-                        <a class="appao-btn">Ciber</a>
+                        <a class="appao-btn btn-with-over">Navegación Rápida </a>
+                        <a class="appao-btn btn-with-over">Instalación</a>
+                        <!-- <a class="appao-btn">Ciber</a> -->
                     </div>
                 </div>
                 <div class="col-lg-5">
                     <div class="hand-mockup text-lg-left text-center">
+                        <img src="assets/img/ift.png" alt="Hand Mockup" />
                         <img src="assets/img/logo_cami.png" alt="Hand Mockup" />
                     </div>
                 </div>
@@ -145,7 +146,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
         <div class="container">
             <div class="row flexbox-center">
                 <div class="col-lg-12 hot-spot">
-                    Hotspot
+                    ZONAS de Cobertura WIFI
                 </div>
                 <div class="col-lg-4">
                     <div class="single-feature-box text-lg-right text-center">
@@ -153,7 +154,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
                             <li>
                                 <div class="feature-box-info">
                                     <h4>San mateo Yucutindoo</h4>
-                                    <p>Lorem ipsum dolor amet consectetur adipisicing eiusmod </p>
+                                    <!-- <p>Lorem ipsum dolor amet consectetur adipisicing eiusmod </p> -->
                                 </div>
                                 <div class="feature-box-icon">
                                     <i class="icofont icofont-network-tower"></i>
@@ -162,7 +163,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
                             <li>
                                 <div class="feature-box-info">
                                     <h4>Las huertas</h4>
-                                    <p>Lorem ipsum dolor amet consectetur adipisicing eiusmod </p>
+                                    <!-- <p>Lorem ipsum dolor amet consectetur adipisicing eiusmod </p> -->
                                 </div>
                                 <div class="feature-box-icon">
                                     <i class="icofont icofont-network-tower"></i>
@@ -171,7 +172,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
                             <li>
                                 <div class="feature-box-info">
                                     <h4>La Cieneguilla</h4>
-                                    <p>Lorem ipsum dolor amet consectetur adipisicing eiusmod </p>
+                                    <!-- <p>Lorem ipsum dolor amet consectetur adipisicing eiusmod </p> -->
                                 </div>
                                 <div class="feature-box-icon">
                                     <i class="icofont icofont-network-tower"></i>
@@ -180,7 +181,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
                             <li>
                                 <div class="feature-box-info">
                                     <h4>El Frijol Textitlan</h4>
-                                    <p>Lorem ipsum dolor amet consectetur adipisicing eiusmod </p>
+                                    <!-- <p>Lorem ipsum dolor amet consectetur adipisicing eiusmod </p> -->
                                 </div>
                                 <div class="feature-box-icon">
                                     <i class="icofont icofont-network-tower"></i>
@@ -198,7 +199,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
                             <li>
                                 <div class="feature-box-info">
                                     <h4>Plato sol</h4>
-                                    <p>Lorem ipsum dolor amet consectetur adipisicing eiusmod </p>
+                                    <!-- <p>Lorem ipsum dolor amet consectetur adipisicing eiusmod </p> -->
                                 </div>
                                 <div class="feature-box-icon">
                                     <i class="icofont icofont-network-tower"></i>
@@ -207,7 +208,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
                             <li>
                                 <div class="feature-box-info">
                                     <h4>Limón</h4>
-                                    <p>Lorem ipsum dolor amet consectetur adipisicing eiusmod </p>
+                                    <!-- <p>Lorem ipsum dolor amet consectetur adipisicing eiusmod </p> -->
                                 </div>
                                 <div class="feature-box-icon">
                                     <i class="icofont icofont-network-tower"></i>
@@ -217,7 +218,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
                             <li>                              
                                 <div class="feature-box-info">
                                     <h4>Sicuandi</h4>
-                                    <p>Lorem ipsum dolor amet consectetur adipisicing eiusmod </p>
+                                    <!-- <p>Lorem ipsum dolor amet consectetur adipisicing eiusmod </p> -->
                                 </div>
                                 <div class="feature-box-icon">
                                     <i class="icofont icofont-network-tower"></i>
@@ -226,7 +227,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
                             <li>                                
                                 <div class="feature-box-info">
                                     <h4>El zapote</h4>
-                                    <p>Lorem ipsum dolor amet consectetur adipisicing eiusmod </p>
+                                    <!-- <p>Lorem ipsum dolor amet consectetur adipisicing eiusmod </p> -->
                                 </div>
                                 <div class="feature-box-icon">
                                     <i class="icofont icofont-network-tower"></i>
@@ -244,7 +245,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
                             <li>                                
                                 <div class="feature-box-info">
                                     <h4>San Antonio</h4>
-                                    <p>Lorem ipsum dolor amet consectetur adipisicing eiusmod </p>
+                                    <!-- <p>Lorem ipsum dolor amet consectetur adipisicing eiusmod </p> -->
                                 </div>
                                 <div class="feature-box-icon">
                                     <i class="icofont icofont-network-tower"></i>
@@ -253,7 +254,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
                             <li>                               
                                 <div class="feature-box-info">
                                     <h4>Pueblo viejo</h4>
-                                    <p>Lorem ipsum dolor amet consectetur adipisicing eiusmod </p>
+                                    <!-- <p>Lorem ipsum dolor amet consectetur adipisicing eiusmod </p> -->
                                 </div>
                                 <div class="feature-box-icon">
                                     <i class="icofont icofont-network-tower"></i>
@@ -263,7 +264,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
                             <li>                               
                                 <div class="feature-box-info">
                                     <h4>Kalifornia</h4>
-                                    <p>Lorem ipsum dolor amet consectetur adipisicing eiusmod </p>
+                                    <!-- <p>Lorem ipsum dolor amet consectetur adipisicing eiusmod </p> -->
                                 </div>
                                 <div class="feature-box-icon">
                                     <i class="icofont icofont-network-tower"></i>
@@ -273,7 +274,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
                             <li>                               
                                 <div class="feature-box-info">
                                     <h4>El sabino</h4>
-                                    <p>Lorem ipsum dolor amet consectetur adipisicing eiusmod </p>
+                                    <!-- <p>Lorem ipsum dolor amet consectetur adipisicing eiusmod </p> -->
                                 </div>
                                 <div class="feature-box-icon">
                                     <i class="icofont icofont-network-tower"></i>
@@ -283,7 +284,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
                             <li>                                
                                 <div class="feature-box-info">
                                     <h4>El naranjo</h4>
-                                    <p>Lorem ipsum dolor amet consectetur adipisicing eiusmod </p>
+                                    <!-- <p>Lorem ipsum dolor amet consectetur adipisicing eiusmod </p> -->
                                 </div>
                                 <div class="feature-box-icon">
                                     <i class="icofont icofont-network-tower"></i>
@@ -297,22 +298,23 @@ defined('BASEPATH') or exit('No direct script access allowed');
         </div>
     </section><!-- feature section end -->
     <!-- showcase section start -->
-    <section class="pricing-area  hogar-area  ptb-90 " id="hogar">
+    <section class="pricing-area  hogar-area  ptb-90 hogar-area-transparent" id="hogar">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <div class="sec-title">
-                        <h2>WIFI en el hogar<span class="sec-title-border"><span></span><span></span><span></span></span></h2>
-                        <p>Disfruta desde la comodidad de tu hogar del internet más rápido y con la más amplia cobertura Contrata tu paquete familiar por tan solo $300.00</p>
+                    <div class="sec-title hogar-area-letter">
+                        <h2 >WIFI en el hogar<span class="sec-title-border" style="color:#000529;"><span></span><span></span><span></span></span></h2>
+                        <p style="font-size:17px;">Disfruta desde la comodidad de tu hogar del internet más rápido y con la más amplia cobertura Contrata tu paquete familiar por tan solo $300.00</p>
                     </div>
                 </div>
             </div>
 
             <div class="row flexbox-center">
                 <div class="col-lg-12 hogar-title">
-                    <p>Contrata paquete básico por $300</p>
+                <a href="#contact" style="cursor:pointer; color:#000529"> Contrata</a>
+                    <!-- <p>Contrata </p> -->
                 </div>
-            </div>
+            </div> 
         </div>
     </section>
     <section class="pricing-area ptb-90" id="negocios">
@@ -442,8 +444,51 @@ defined('BASEPATH') or exit('No direct script access allowed');
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-12">
-                    <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" >
+                <div class="offset-2 col-lg-8">
+
+                <div class="contenedor-carrusel">
+                    <div class="carousel">
+                        <input type="radio" id="carousel-1" name="carousel[]" checked>
+                        <input type="radio" id="carousel-2" name="carousel[]">
+                        <input type="radio" id="carousel-3" name="carousel[]">
+                        <input type="radio" id="carousel-4" name="carousel[]">
+                        <input type="radio" id="carousel-5" name="carousel[]">
+                        <ul class="carousel__items">
+                            <li class="carousel__item"> <div class="slide-1"> </div> </li>
+                            <li class="carousel__item"> <div class="slide-2"> </div> </li>
+                            <li class="carousel__item"> <div class="slide-3"> </div> </li>
+                            <li class="carousel__item"> <div class="slide-4"> </div> </li>
+                            <li class="carousel__item"> <div class="slide-5"> </div> </li>
+                        </ul>
+                        <div class="carousel__prev">
+                            <label for="carousel-1"></label>
+                            <label for="carousel-2"></label>
+                            <label for="carousel-3"></label>
+                            <label for="carousel-4"></label>
+                            <label for="carousel-5"></label>
+                        </div>
+                        <div class="carousel__next">
+                            <label for="carousel-1"></label>
+                            <label for="carousel-2"></label>
+                            <label for="carousel-3"></label>
+                            <label for="carousel-4"></label>
+                            <label for="carousel-5"></label>
+                        </div>
+                        <div class="carousel__nav">
+                            <label for="carousel-1"></label>
+                            <label for="carousel-2"></label>
+                            <label for="carousel-3"></label>
+                            <label for="carousel-4"></label>
+                            <label for="carousel-5"></label>
+                        </div>
+                    </div>
+                </div>
+
+
+
+
+               
+                    <!-- <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" >
                         <ol class="carousel-indicators">
                             <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
                             <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
@@ -452,20 +497,20 @@ defined('BASEPATH') or exit('No direct script access allowed');
                             <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>                         
                         </ol>
                         <div class="carousel-inner" style="border: solid 2px white;">
-                            <div class="carousel-item active">
-                                <img class="d-block w-100" src="assets/img/1.jpg" alt="First slide" style=" height: 600px;">
+                            <div class="carousel-item active ">
+                                <img class=" w-100 img-slide" src="assets/img/1.png" alt="First slide" >
+                            </div>
+                            <div class="carousel-item ">
+                                <img class=" w-100 img-slide" src="assets/img/2.png" alt="Second slide" >
                             </div>
                             <div class="carousel-item">
-                                <img class="d-block w-100" src="assets/img/2.jpg" alt="Second slide" style=" height: 600px;">
+                                <img class=" w-100 img-slide" src="assets/img/3.png" alt="Third slide" >
+                            </div>
+                            <div class="carousel-item" >
+                                <img class="w-100 img-slide" src="assets/img/4.png" alt="Fourth slide">
                             </div>
                             <div class="carousel-item">
-                                <img class="d-block w-100" src="assets/img/3.jpg" alt="Third slide" style=" height: 600px;">
-                            </div>
-                            <div class="carousel-item" style="padding-left: calc(50% - 200px);">
-                                <img class="d-block w-100" src="assets/img/4.jpg" alt="Fourth slide" style="width:400px !important; height: 600px;">
-                            </div>
-                            <div class="carousel-item">
-                                <img class="d-block w-100" src="assets/img/5.jpg" alt="Five slide" style=" height: 600px;">
+                                <img class=" w-100 img-slide" src="assets/img/5.png" alt="Five slide" >
                             </div>                          
                         </div>
                         <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -476,7 +521,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
                             <span class="carousel-control-next-icon" aria-hidden="true"></span>
                             <span class="sr-only">Next</span>
                         </a>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
@@ -496,10 +541,10 @@ defined('BASEPATH') or exit('No direct script access allowed');
                         <h4>Registro</h4>
                         <p class="form-message"></p>
                         <form id="formRegistro" onsubmit="return false">
-                            <input type="text" name="name" placeholder="Nombre Completo">
-                            <input type="email" name="email" placeholder="Correo Electrónico">
-                            <input type="text" name="telefono" placeholder="Teléfono">
-                            <textarea placeholder="Mensaje" name="mensaje"></textarea>
+                            <div> <input type="text" name="name" placeholder="Nombre Completo"> </div>
+                            <div> <input type="email" name="email" placeholder="Correo Electrónico"> </div>
+                            <div> <input type="number" name="telefono" placeholder="Teléfono"> </div>
+                            <div> <textarea placeholder="Mensaje" name="mensaje"></textarea> </div>                                                                                                                
                             <button type="submit">Enviar Mensaje</button>
                         </form>
                     </div>
@@ -514,7 +559,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
                                     <i class="icofont icofont-headphone-alt"></i>
                                 </div>
                                 <div class="contact-address-info">
-                                    <a href="callto:#">--- --- ----</a>
+                                    <a href="callto:#">951 587 7390</a>
                                 </div>
                             </li>
                             <li>
@@ -572,14 +617,68 @@ defined('BASEPATH') or exit('No direct script access allowed');
     <script src="assets/js/switcher.js"></script>
     <!-- main JS -->
     <script src="assets/js/main.js"></script>
+    <!-- Alerts-->
+    <script src="assets/js/sweetalert.min.js"></script>
+
     <script>
-        //action="/index.php/ccgro/saveregistro"
+      
         $('#formRegistro').submit(function() {
+            var isValido = true;
+            $('input').each(function(index, item){
+                var $input = $(item);
+                $input.closest('div').removeClass('c-error');
+                if ($input.val().trim() == '') {
+                   $input.closest('div').addClass('c-error');
+                   isValido = false;
+                }
+            });
+            if(!isValido){
+                swal({
+                        title: "Validacion de formularios",
+                        text: "Existen campos vacios en el formulario; es necesario rellenarlos",
+                        icon: "error",
+                        buttons: false,
+                        timer: 3000
+                    });
+                return;
+            }
+               
+            
+            swal({
+                        title: "Envio de correo",
+                        text:'Enviando correo ...',
+                        icon: "warning",
+                        buttons: false                                           
+                    });
             var post_data = $('#formRegistro').serialize();
-            $.post('./index.php/ccgro/agregarRegistro', post_data, function(data) {
-                console.log("caraga");
-                console.log(data);
-                //$('#notification').show();
+            $.post('./index.php/cami/agregarRegistro', post_data, function(data){                
+                if(data=='{success:true}'){
+                    $('#formRegistro').trigger("reset");
+                    swal({
+                        title: "Envio de Correo",
+                        text: "Se ha enviado el correo exitosamente.",
+                        icon: "success",
+                        buttons: false,
+                        timer: 3000
+                    });
+                    //swal("Envio de Correo", "Se ha enviado el correo exitosamente.", "success");                   
+                }else{
+                    swal({
+                        title: "Envio de Correo",
+                        text: "Ha ocurrido un error al intentar enviar el correo.",
+                        icon: "error",
+                        buttons: false,
+                        timer: 3000
+                    });
+                }
+            }).fail(function(xhr, status, error){
+                swal({
+                    title: "Envio de Correo",
+                    text: "Ha ocurrido un error al intentar enviar el correo.",
+                    icon: "error",
+                    buttons: false,
+                    timer: 3000
+                });
             });
         });
     </script>
